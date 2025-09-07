@@ -18,7 +18,20 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 ---
 
 📍 **Data Source**:  
-[V-Dem ERT Dataset v2](https://www.v-dem.net/) – Episodes of Regime Transformation  
+* **Episodes of Regime Transformation** : [V-Dem ERT Dataset v2](https://www.v-dem.net/)  
+* **Political and Institutional Data:** The [Varieties of Democracy (V-Dem) Episodes of Regime Transformation (ERT) dataset (v15)](https://www.v-dem.net/data/ert-dataset/).
+* **Economic Data:**
+    * [World Bank World Development Indicators (WDI)](https://databank.worldbank.org/source/world-development-indicators) and [International Debt Statistics](https://databank.worldbank.org/source/international-debt-statistics).
+    * **External Debt Stocks (% of GNI):** [World Bank WDI dataset](https://data.worldbank.org/indicator/DT.DOD.DECT.GN.ZS)
+    * **Total Debt Service (% of exports):** [World Bank WDI dataset](https://data.worldbank.org/indicator/DT.TDS.DECT.EX.ZS)
+    * **Short-term Debt (% of exports):** [World Bank WDI dataset](https://tradingeconomics.com/tunisia/short-term-debt-percent-of-exports-of-goods-services-and-income-wb-data.html)
+    * **FDI Inflows (% of GDP):** [World Bank WDI dataset](https://data.worldbank.org/indicator/BX.KLT.DINV.WD.GD.ZS?locations=TN)
+    * **Net ODA Received (% of GNI):** [World Bank WDI dataset](https://data.worldbank.org/indicator/DT.ODA.ODAT.GN.ZS) and [CEIC Data](https://www.ceicdata.com/en/tunisia/defense-and-official-development-assistance/tn-net-official-development-assistance-received--of-gross-national-income)
+* **Socio-economic Data:** The Gini index and other indicators from various institutional databases.
+* **Institutional Analysis:**
+    * **V-Dem Core Dataset, Version 15:** [V-Dem Data Portal](https://www.v-dem.net/data/the-v-dem-dataset/)
+    * **V-Party Dataset:** [V-Dem V-Party Dataset](https://www.v-dem.net/data/v-party-dataset/country-party-date-v2/)
+
 
 ---
 
