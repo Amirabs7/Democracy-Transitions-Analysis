@@ -18,8 +18,9 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 ---
 
 📍 **Data Source**:  
-* **Episodes of Regime Transformation** : [V-Dem ERT Dataset v2](https://www.v-dem.net/)  
-* **Political and Institutional Data:** The [Varieties of Democracy (V-Dem) Episodes of Regime Transformation (ERT) dataset (v15)](https://www.v-dem.net/data/ert-dataset/).
+**Political and Institutional Data**:
+* **Varieties of Democracy** : [V-Dem ERT Dataset v2](https://www.v-dem.net/)  
+* **Episodes of Regime Transformation ERT dataset v15:**  : (https://www.v-dem.net/data/ert-dataset/).
 * **Economic Data:**
     * [World Bank World Development Indicators (WDI)](https://databank.worldbank.org/source/world-development-indicators) and [International Debt Statistics](https://databank.worldbank.org/source/international-debt-statistics).
     * **External Debt Stocks (% of GNI):** [World Bank WDI dataset](https://data.worldbank.org/indicator/DT.DOD.DECT.GN.ZS)
@@ -139,8 +140,8 @@ git clone https://github.com/Amirabs7/Democracy-Transitions-Analysis.git
 [![Starting Levels](Starting%20Democracy%20Levels%20of%20Successful%20Transitions%20Since%202000.png)](Starting%20Democracy%20Levels%20of%20Successful%20Transitions%20Since%202000.png)
 
 - Successful democratizations since 2000 usually started in regimes that were not fully authoritarian, but had medium democracy levels (Polyarchy ~0.4–0.5).
-- Almost no cases of success came from “hard” authoritarian regimes (Polyarchy <0.2).
-- Full authoritarian collapses almost never democratize successfully. Success depends on pre-existing pluralism, semi-open institutions, or organized opposition. Tunisia was an unusual case: it started from a fairly authoritarian baseline (Polyarchy ~0.25), which helps explain why consolidation failed — the institutional and economic foundations weren’t strong enough to sustain democracy.
+- Few success cases came from “hard” authoritarian regimes (Polyarchy <0.2).
+- Full authoritarian collapses rarely democratize successfully. Success depends on pre-existing pluralism, semi-open institutions, or organized opposition. Tunisia was an unusual case: it started from a fairly authoritarian baseline (Polyarchy ~0.25), which helps explain why consolidation failed — the institutional and economic foundations weren’t strong enough to sustain democracy.
 
 
 ### 3. Success of Democratization Episodes Over Time : 
@@ -150,8 +151,7 @@ git clone https://github.com/Amirabs7/Democracy-Transitions-Analysis.git
 
 
 - From 1900–mid 20th century, almost all democratization attempts failed.Late 20th century (1970s–1990s) saw more successes (e.g., Latin America, Eastern Europe, Southern Europe). Since 2000, successes are rare again, with failure/stagnation dominating.
-- The global “third wave” of democracy (1970s–1990s) was historically unique. The post–2000 era has not been easy either : authoritarian resilience, resource wealth, geopolitical rivalries, and weak international pressure mean that most attempts crash. Tunisia wasn’t a unique tragedy — it was part of a systemic reversal in global democratization
-
+- The global “third wave” of democracy (1970s–1990s) was historically unique. The post–2000 era has not been easy either : authoritarian resilience, resource wealth, geopolitical rivalries, and weak international pressure mean that most attempts crash. 
 
 ### 4.Post- democratization episode status by country :
 
@@ -160,6 +160,7 @@ git clone https://github.com/Amirabs7/Democracy-Transitions-Analysis.git
 
 
 - This graph focuses on other democratization episodes since 2000, mainly the following countries: Benin, Bolivia, Fiji, Honduras, Thailand, Zambia.
+- It is worth mentioning, that as of July 2025, the date of intial publication of this project, both Zambia and Benin are not considered full democracies. 
 - Partial democracies sometimes struggle more to consolidate due to hybrid instability.
 - Successful transitions often start from very low or intermediate institutional levels, not already “semi-free” states.
   
@@ -190,7 +191,6 @@ Tunisia is a case study with both national and global significance:
 - Highlights the fragility of democratic institutions and the importance of robust governance.
 
 
-> **Visual Evidence:** See [Tunisia's Democracy Score Over Time](Democracy%20score%20over%20time%20Tunisia.png) for the full trajectory.
 
 ---
 
@@ -199,7 +199,7 @@ Tunisia is a case study with both national and global significance:
 [![Economic Factors Affecting Tunisia's Democracy](economics%20factors%20affecting%20TUnisia%20democracy%20.png)](economics%20factors%20affecting%20TUnisia%20democracy%20.png)
 
 
-In Tunisia (1991–2024), democratic backsliding was not predicted by GDP growth or inflation but was strongly linked to changes in **youth unemployment**. Economic expansion alone failed to prevent declines in Democracy Score, highlighting that structural social pressures, rather than aggregate growth, drive democratic resilience. Changes in external debt, debt service, and foreign aid were strongly associated with fluctuations in democracy. While higher external debt slightly supported democratic consolidation, heavy debt service and greater reliance on Net ODA constrained democratic institutions. FDI showed a modest positive effect. These patterns suggest that financial structures play a critical role in shaping political outcomes, with economic expansion alone insufficient to guarantee democratic resilience.
+In Tunisia (2010–2024), democratic backsliding was not predicted by GDP growth or inflation but was strongly linked to changes in youth unemployment. Economic expansion alone failed to prevent declines in Democracy Score, highlighting that structural social pressures, rather than aggregate growth, drive democratic resilience. Changes in external debt, debt service, and foreign aid were strongly associated with fluctuations in democracy. While higher external debt slightly supported democratic consolidation, heavy debt service and greater reliance on Net ODA constrained democratic institutions. FDI showed a modest positive effect. These patterns suggest that financial structures play a critical role in shaping political outcomes, with economic expansion alone insufficient to guarantee democratic resilience.
 
 
 ### 7. Institutional Weaknesses and Trends
@@ -212,32 +212,21 @@ Our analysis of the **V-Dem** data on Tunisia's institutional trends shows that 
 
 
 The analysis highlights that **strong political parties** are the most significant positive driver of polyarchy. Weak or fragmented parties, which characterized Tunisia's system, failed to consolidate democracy. Direct elections do not guarantee stable democracy and may even correlate negatively in transitional contexts. Executive constraints help but are fragile. Tunisia’s institutions—especially parties and executive constraints—were too weak to consolidate the democratic gains of 2011.
+The 2021 coup was primarily an **institutional and political event**, not a reaction to mass demonstrations or violent unrest. The model's key predictors were a **declining polyarchy score** and **low popular demonstrations**. Political violence was not a significant predictor.
 
 
-### 8. The Gini Coefficient and the Comparative Analysis
 
-[![Economic Inequality (Gini Coefficient) over Time](comparaision%20using%20gini%20index.png)](comparaision%20using%20gini%20index.png)
+### 8. Comparative Analysis using The Gini Coefficient 
+
+[![Final Comparative Analysis](final%20analysis%20COMPARATIVE%20.png)](final%20analysis%20COMPARATIVE%20.png)
 
 
 A regression analysis using the Gini coefficient and economic diversification, comparing Tunisia to Costa Rica and South Korea, yielded a strong fit. The analysis demonstrates that rising economic inequality, particularly when combined with a lack of economic diversification, is a critical risk factor for political instability. This highlights a critical failure in the post-revolution Tunisian economic model to evolve into a developmental state that actively fosters inclusive prosperity.
 
 
-### 9. Final Comparative Analysis
-
-[![Final Comparative Analysis](final%20analysis%20COMPARATIVE%20.png)](final%20analysis%20COMPARATIVE%20.png)
-
-A regression analysis comparing Tunisia to Costa Rica and South Korea highlights that rising economic inequality, combined with a lack of economic diversification, is a critical risk factor for political instability. This demonstrates the failure of Tunisia's post-revolution economic model to foster inclusive prosperity.
-
 Our comparative analysis shows that while Costa Rica has successfully maintained a low Gini coefficient alongside a high polyarchy score, Tunisia's democratic progress has been undermined by growing economic inequality and institutional fragility. The inability of the Tunisian state to become a "developmental state" that promotes inclusive growth contributed significantly to democratic backsliding after 2014.
 
 
----
-
-## 9. Executive Analysis
-
-
-
-The *2021 coup was primarily an **institutional and political event**, not a reaction to mass demonstrations or violent unrest. The model's key predictors were a **declining polyarchy score** and **low popular demonstrations**. Political violence was not a significant predictor.
 
 ---
 
