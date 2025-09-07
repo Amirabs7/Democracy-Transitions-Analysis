@@ -11,7 +11,7 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 ---
 
 ## What this project shows
-- Political science research and R data analysis using tidyverse and ggplot2.
+- Political science research and R and Python data analysis using tidyverse and ggplot2.
 - Insights into Tunisia’s democratic trajectory, fragility, and global comparisons.
 - Reproducible RMarkdown report with  visualizations and narrative.
 
@@ -212,7 +212,6 @@ Our analysis of the **V-Dem** data on Tunisia's institutional trends shows that 
 
 
 The analysis highlights that **strong political parties** are the most significant positive driver of polyarchy. Weak or fragmented parties, which characterized Tunisia's system, failed to consolidate democracy. Direct elections do not guarantee stable democracy and may even correlate negatively in transitional contexts. Executive constraints help but are fragile. Tunisia’s institutions—especially parties and executive constraints—were too weak to consolidate the democratic gains of 2011.
-The 2021 coup was primarily an **institutional and political event**, not a reaction to mass demonstrations or violent unrest. The model's key predictors were a **declining polyarchy score** and **low popular demonstrations**. Political violence was not a significant predictor.
 
 
 
@@ -230,11 +229,11 @@ Our comparative analysis shows that while Costa Rica has successfully maintained
 
 ---
 
-## 📜 Policy Recommendations for Democratic Consolidation
+##  9.Policy Recommendations for Democratic Consolidation
 
 Based on the comparative analysis and the statistical findings, a successful strategy for democratic consolidation requires a proactive and integrated approach that goes beyond simply addressing unemployment or inequality in isolation.
 
-#### Addressing Unemployment and Economic Inequality
+#### Addressing Unemployment and Economic Inequality:
 
 The analysis demonstrates that rising economic inequality, particularly when combined with a lack of economic diversification, is a critical risk factor for political instability.
 
@@ -242,7 +241,7 @@ The analysis demonstrates that rising economic inequality, particularly when com
 * **Regional Development Funds:** Implement development funds and tax incentives to promote entrepreneurship and job creation in marginalized inland regions, directly combating the geographic and economic disparities that fuel social unrest.
 * **Education-to-Employment Pipeline:** Restructure the national education system to better align with the needs of the new, targeted growth sectors.
 
-#### Fostering a "Developmental State" Model
+#### Fostering a "Developmental State" Model:
 
 The success of South Korea in consolidating stability while reducing inequality offers a powerful blueprint. The core principle is the active role of the state in guiding economic policy for inclusive growth.
 
@@ -250,7 +249,7 @@ The success of South Korea in consolidating stability while reducing inequality 
 * **Industrial Policy:** Use a combination of subsidies, tax credits, and export promotion to nurture key industries.
 * **Trade and Foreign Direct Investment (FDI) Control:** Implement policies to attract FDI that aligns with national development goals, prioritizing foreign investment that brings in new technology and high-value jobs.
 
-#### Strengthening Democratic Institutions
+#### Strengthening Democratic Institutions:
 
 The success of the above economic policies hinges on strong, trustworthy, and effective institutions.
 
@@ -258,14 +257,14 @@ The success of the above economic policies hinges on strong, trustworthy, and ef
 * **Civil Service Reform:** Implement a meritocratic civil service system to professionalize the bureaucracy and remove political cronies.
 * **Empowerment of Civil Society:** Actively involve civil society organizations (CSOs) in the economic policy-making process to provide a crucial feedback loop and build social consensus.
 
-#### Integrating the Informal Economy & Modernizing Government
+#### Integrating the Informal Economy & Modernizing Government:
 
 A successful democratic transition requires formalizing the informal economy and modernizing government services to increase trust, efficiency, and revenue.
 
 * **Formalization and Incentivization:** Create a streamlined, low-cost registration process for informal businesses and workers.
 * **E-Government Initiatives:** Launch a national digital transformation strategy to modernize public services to reduce bureaucracy, increase transparency, and combat corruption.
 
-#### Creating Special Economic Zones
+#### Creating Special Economic Zones:
 
 Drawing inspiration from successful models of state-led development, the establishment of strategically located economic zones can act as powerful engines for growth, investment, and job creation.
 
