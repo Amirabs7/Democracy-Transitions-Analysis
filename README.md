@@ -17,8 +17,8 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 
 ---
 
- **Data Source**:  
-**Political and Institutional Data**:
+## Data Source
+ 
 * **Varieties of Democracy** : [V-Dem ERT Dataset v2](https://www.v-dem.net/)  
 * **Episodes of Regime Transformation ERT dataset v15:**  : (https://www.v-dem.net/data/ert-dataset/).
 * **Economic Data:**
@@ -39,32 +39,51 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 
 ##  Repository Structure
 
-├──.Rhistory
 
-├──Democracy Score Over Time (Tunisia).R
+---
 
-├──Democracy score over time Tunisia.png
+ **Notebooks**
+- `01_Political_Analysis_R.ipynb` – Political analysis.  
+- `02-Tunisia_Economic_Democracy_Nexus.ipynb` – Economic-democracy link.  
+- `03_Institutional_Analysis_Tunisia__.ipynb` – Institutional effects.  
+- `04_Executive_Analysis_Tunisia__.ipynb` – Executive actions.  
+- `05_Tunisia_Comparative_Master_Analysis.ipynb` – Comparative analysis.  
+- `06_Tunisia_Policy_recommendations_.ipynb` – Policy recommendations.  
 
-├──Democratization process.R
+---
 
-├──Outcomes of democratization episodes gloabl.png
+  **Data**
+Includes GDP, inflation, youth unemployment, debt, FDI, ODA, democracy scores, political violence, and demonstrations (1990–2025). Key files:  
+- `DATA set TUN Wordbank gdp 1964-2024.xls`  
+- `DATA set TUN Wordbank inflation 1984-2024.xls`  
+- `Data excel youth unemployement worldbank 1991-2024.xls`  
+- `Freedom in the World All_data_FIW_2013-2024.xlsx`  
+- `BTI_2024_Scores Tunisia party system.xlsx`  
+- `tunisia_political_violence_events_and_fatalities_by_month-year_as-of-27aug2025.xlsx`  
 
-├──README.md
+---
 
-├──Readme.txt
+ **Scripts & R Files**
+- `Democracy Score Over Time (Tunisia).R`  
+- `Democratization process.R`  
+- `The Episodes of Regime Transformation (ERT) dataset.R`  
+- `Tunisia’s Fragile Democratic Rollercoaster Insights from V-Dem ERT Data.Rmd`  
 
-├──Starting Democracy Levels of Successful Transitions Since 2000.png
+---
 
-├──The Episodes of Regime Transformation (ERT) dataset.R
+  **Visualizations**
+Includes trends, comparisons, and analysis outputs:  
+- `Democracy score over time Tunisia.png`  
+- `economics factors affecting TUnisia democracy .png`  
+- `institutional indicators and TUN democracy.png`  
+- `final analysis COMPARATIVE .png`  
 
-├──Tunisia’s Fragile Democratic Rollercoaster Insights from V-Dem ERT Data.Rmd
+---
 
-├──data.csv
+ **Other Files**
+- `CITATION.cff`, `LICENSE`, `.Rhistory`, `session-info.txt`, `data.csv`  
 
-├──post democratization episode status by country.png
-
-├──success of democratization episodes over time.png
-
+---
 
 
 
