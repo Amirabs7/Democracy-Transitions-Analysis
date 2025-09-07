@@ -3,7 +3,7 @@
 
 
 ##  Overview  
-This project provides a data-driven analysis of democratic transitions, focusing on Tunisia’s post-Arab Spring trajectory while situating it within global patterns of democratization and reversal. Using the Varieties of Democracy (V-Dem) Episodes of Regime Transformation (ERT) dataset, this work quantifies the dynamics of regime change, highlights critical turning points, and compares Tunisia to other countries with democratization episodes since 2000.
+This project provides a data-driven analysis of democratic transitions, focusing on Tunisia’s post-Arab Spring trajectory while situating it within global patterns of democratization and reversal. Using the Varieties of Democracy (V-Dem) Episodes of Regime Transformation (ERT) dataset, this work quantifies the dynamics of regime change, highlights critical turning points, and compares Tunisia to other countries with democratization episodes since the 2000s.
 
 The goal is to provide an evidence-based perspective on the fragility, resilience, and global patterns of democratization, offering  insights for researchers and policymakers.
 
