@@ -17,7 +17,7 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 
 ---
 
-📍 **Data Source**:  
+ **Data Source**:  
 **Political and Institutional Data**:
 * **Varieties of Democracy** : [V-Dem ERT Dataset v2](https://www.v-dem.net/)  
 * **Episodes of Regime Transformation ERT dataset v15:**  : (https://www.v-dem.net/data/ert-dataset/).
@@ -37,7 +37,7 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 ---
 
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ├──.Rhistory
 
@@ -71,7 +71,7 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 ---
 
 
-## 📦 Dependencies
+##  Dependencies
 
 - Make sure you have R (≥ 4.0) and the following packages installed:
 - install.packages(c("ggplot2", "dplyr", "readr", "tibble", "scales"))
@@ -80,7 +80,7 @@ The goal is to provide an evidence-based perspective on the fragility, resilienc
 ---
 
 
-## 🛠️ How to Reproduce
+##  How to Reproduce
 
 - Clone this repository:
 
@@ -96,7 +96,7 @@ git clone https://github.com/Amirabs7/Democracy-Transitions-Analysis.git
 
 ---
 
-## 🔁 Reproducibility & Data Provenance
+##  Reproducibility & Data Provenance
 
 **Source:** V-Dem ERT dataset (subset for Tunisia)  
 
@@ -116,7 +116,7 @@ git clone https://github.com/Amirabs7/Democracy-Transitions-Analysis.git
 
 ---
 
-## 📊 Key Visualizations and Key Insights :
+##  Key Visualizations and Key Insights :
 *(Click any image to view full resolution)*  
 
 
@@ -283,7 +283,7 @@ Drawing inspiration from successful models of state-led development, the establi
 
 
   
-  ## 👩‍💻 Author
+  ##  Author
   
 Amira Ben Salem  : 📧 besamira77@gmail.com
 
